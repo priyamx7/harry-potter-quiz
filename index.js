@@ -9,11 +9,13 @@ console.log(chalk.yellow(`Hello ${userName}!
 Welcome to the Harry Potter Quiz Game.`));
 console.log("----------------------------");
 
-//Rules
+//Instructions
 console.log(chalk.blue(
-  `RULES
-  1. Every right answer gives you 10 points.
-  2. Every wrong answer deducts 4 points.`
+  `INSTRUCTIONS :-
+  1. This quiz has 5 questions. 
+  2. Every right answer gives you 10 points.
+  3. Every wrong answer deducts 4 points.
+  4. Just type a or b or c for answering.`
 ));
 console.log("----------------------------");
 console.log("Let's start...");
@@ -110,7 +112,7 @@ var highScore = [
   {
     name: "Abhiraj",
     score: 22
-  }
+  },
   {
     name: "Hitesh",
     score: 36
