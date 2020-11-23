@@ -1,3 +1,5 @@
+# Harry Potter Quiz
+
 This is also a CLI app made on NodeJs.
 
 If you are a Harry Potter Series fan, this will amaze you.
